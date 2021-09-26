@@ -9,20 +9,20 @@
 
 
 
-## github
+#### github
 ![ABizCho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABizCho&show_icons=true&theme=material-palenight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## BaekJun Rank
+#### BaekJun Rank
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=he1236)](https://solved.ac/he1236)
 
 <br><br><br>
 
 
-## 🛠 Wanna have Stacks 🛠
+#### 🛠 Wanna have Stacks 🛠
 <p align="center"> Techs that I want to acquire </p>
 
 <p align="center">
