@@ -22,7 +22,6 @@
 
 
 ### 🛠 Wanna get Stacks 🛠
-<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -43,7 +42,6 @@
 <br><br><br>
 
 ### 🚝 channels 🚝
-<br>
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/he12569)](https://blog.naver.com/he12569)
 <a href="https://velog.io/@he1256"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@he1256"/></a>
 <a href="https://www.instagram.com/horiz.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/horiz.d/"/></a>  <a href="mailto:he1236@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=he1236@ajou.ac.kr"/></a>
