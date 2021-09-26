@@ -1,5 +1,15 @@
 
-<h2 > 🚀KR AU Ebiz18 horiz.d </h2>
+<h2 > 🚀AU ebiz18 ABizCho </h2>
+
+🦌 about horiz.d
+<p align="center">
+  <a href="https://velog.io/@he1256"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@he1256"/></a>&nbsp
+  <a href="https://www.instagram.com/horiz.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/horiz.d/"/></a>&nbsp
+  <a href="mailto:he1236@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=he1236@ajou.ac.kr"/></a>
+</p>
+<br>
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABizCho&count_bg=%23FFA800&title_bg=%235EC8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -46,12 +56,6 @@ Techs that I want to acquire
 
 
 
-<h3 align="center"> 🦌 about horiz.d 🦌 </h3>
-<p align="center">
-  <a href="https://velog.io/@he1256"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@he1256"/></a>&nbsp
-  <a href="https://www.instagram.com/horiz.d/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/horiz.d/"/></a>&nbsp
-  <a href="mailto:he1236@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=he1236@ajou.ac.kr"/></a>
-</p>
-<br>
+
 
 
