@@ -1,5 +1,5 @@
 
-<h2 > 🚀AU ebiz18 ABizCho </h2>
+<h1 > 🚀AU ebiz18 ABizCho </h1>
 
 
 ### About me
