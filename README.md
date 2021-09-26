@@ -1,14 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'ts%20me%20ABizCho!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffffff)
 
-
-<br><br><br>
-
-
-
+<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABizCho&count_bg=%23FFA800&title_bg=%235EC8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
- 
-<br>
+<br><br>
 
 
 
