@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=150&section=header&text=Hi!%20It's%20me%20ABizCho!&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
+I'm trying to build up not only tech-skills but exquisite insight, zealously, even at this moment.
+plz follow my journey up with your warmest interest.
+
+Thanks & Best regards
 <br><br>
 
 
