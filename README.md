@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=150&section=header&text=Hi!%20It's%20me%20ABizCho!&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
-I'm ABizCho ( A.K.A horiz.d 🌰 ) <br>
+I'm ABizCho ( A.K.A horiz.d 🌰 ) <br><br>
 I'm trying to refine not just tech-skills but exquisite insight in business perspective, zealously, even at this moment. <br>
 Plz follow my journey up continuoulsy with your warmest interest.
 
