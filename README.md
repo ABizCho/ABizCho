@@ -1,4 +1,4 @@
-<h2> 🍊Hello! This is ABIZ18 Seongwoo Cho. </h2>
+<h2> 🚀Abiz 18 horiz.d </h2>
 
 <span> 💌 he1236@ajou.ac.kr </span>
 
