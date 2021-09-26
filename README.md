@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 ![ABizCho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABizCho&show_icons=true&theme=radical)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=he1236)](https://solved.ac/he1236)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
