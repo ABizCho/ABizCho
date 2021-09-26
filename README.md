@@ -1,8 +1,9 @@
 <h2> 🚀Abiz 18 horiz.d </h2>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABizCho&count_bg=%23FFA800&title_bg=%235EC8C8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 <span> 💌 he1236@ajou.ac.kr </span>
+
 
 
 
@@ -61,4 +62,3 @@
 <br>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Fhe12569&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
