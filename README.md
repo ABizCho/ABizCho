@@ -1,11 +1,17 @@
-### Hi there 👋
+<h2> 🍊Hello! This is ABIZ18 Seongwoo Cho. </h2>
 
-![ABizCho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABizCho&show_icons=true&theme=radical)
+<span> 💌 he1236@ajou.ac.kr </span>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=he1236)](https://solved.ac/he1236)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://www.instagram.com/horiz.d/">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/horiz.d/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://velog.io/@he1256">
+    <img 
+        src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=Vector Logo Zone&link=https://velog.io/@he1256"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <!--
 **ABizCho/ABizCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
