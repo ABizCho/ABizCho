@@ -22,8 +22,8 @@
 <br><br><br>
 
 
-#### 🛠 Wanna have Stacks 🛠
-<p align="center"> Techs that I want to acquire </p>
+## 🛠 Wanna have Stacks 🛠
+Techs that I want to acquire
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
