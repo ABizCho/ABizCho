@@ -11,9 +11,12 @@
 
 
 #### github Stats
-[![ABizCho's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=horiz.d's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![ABizCho's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=ABizCho's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=compact&theme=material-palenight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### BaekJun Rank
