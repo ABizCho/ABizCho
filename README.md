@@ -4,7 +4,7 @@ I'm ABizCho ( A.K.A horiz.d 🌰 ) <br><br>
 I'm trying to refine not just tech-skills but exquisite insight in business perspective, zealously, even at this moment. <br>
 Plz follow my journey to dev-world up continuously with your warmest interest.
 
-Thanks & Best regards
+Thanks & Best regards.
 <br><br>
 
 
