@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=180&section=header&text=Hi!%20It's%20me%20ABizCho!&fontSize=30&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=150&section=header&text=Hi!%20It's%20me%20ABizCho!&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
 <br><br>
 
