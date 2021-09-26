@@ -2,7 +2,10 @@
 
 
 ![header](https://capsule-render.vercel.app/api?
-type=wave&color=auto&height=300&section=header&text=Hi!%20I'ts%20me%20ABizCho!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+type=wave&color=auto&height=300&section=header&text=Hi!%20I'ts%20me%20ABizCho!&fontAlign=50&fontAlignY=70&fontSize=90)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'ts%20me%20ABizCho!&fontSize=90)
+
 
 <br><br>
 
