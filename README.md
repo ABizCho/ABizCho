@@ -26,7 +26,7 @@ Thanks & Best regards.
 ### 📜 Certificate 📜
 <p>
    <a href="https://ifh.cc/g/MjfMoi.jpg"><img src="https://ifh.cc/g/Zo4oMU.png"/></a>&nbsp
-   <a href="https://ifh.cc/g/M7N7w4.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
+   <a href="https://ifh.cc/g/j8vyOc.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
 
 <br><br><br>
 
