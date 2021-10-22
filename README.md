@@ -22,7 +22,7 @@ Thanks & Best regards.
 
 <br><br><br>
 
-<a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>&nbsp
+<a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>
 <br><br><br>
 
 
