@@ -22,15 +22,20 @@ Thanks & Best regards.
 
 <br><br><br>
 
-<a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>
-<br><br><br>
 
 
 ### 📜 Certificate 📜
 <p>
    <a href="https://ifh.cc/g/MjfMoi.jpg"><img src="https://ifh.cc/g/Zo4oMU.png"/></a>&nbsp
    <a href="https://ifh.cc/g/j8vyOc.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
-
+</p>
+<br><br><br>
+   
+### Test Record
+<p>
+   <a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>
+<br><br><br>
+</p>
 <br><br><br>
 
 
