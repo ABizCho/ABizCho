@@ -31,7 +31,7 @@ Thanks & Best regards.
 </p>
 <br><br><br>
    
-### Test Record
+### 😎 Other References 😎
 <p>
    <a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/joRih1.png"/></a>
 <br><br><br>
