@@ -22,6 +22,10 @@ Thanks & Best regards.
 
 <br><br><br>
 
+<div style="display:inline-block;padding:5px 16px;background:#fff;border-radius:8px"><span class="wiki-image-align-normal" style="height:30px;"><span class="wiki-image-wrapper" style="height: 100%;"><img class="wiki-image-space" height="100%" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTI0IiBoZWlnaHQ9IjEyMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4="><img class="wiki-image" height="100%" src="//w.namu.la/s/4755c7927e05ba7856fa9ad7622cabf9b47b0b97f7f495e169ebf122f003c1498e71a2caa0b5bfa22fbf28748d8d158202cf314f878adb23b1bb24e8d83c7a3066c2fc12a66049178709f4657e7df4e87381b9d818d085eed6f6145c8de8ada0" data-filesize="19405" data-src="//w.namu.la/s/4755c7927e05ba7856fa9ad7622cabf9b47b0b97f7f495e169ebf122f003c1498e71a2caa0b5bfa22fbf28748d8d158202cf314f878adb23b1bb24e8d83c7a3066c2fc12a66049178709f4657e7df4e87381b9d818d085eed6f6145c8de8ada0" alt="external/d2gd6pc..." loading="lazy"></span></span></div>
+
+<br><br><br>
+
 
 ### 📜 Certificate 📜
 <p>
