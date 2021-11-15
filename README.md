@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=150&section=header&text=Hi!%20It's%20me%20Horiz.d!&fontSize=30&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,80:f7797d&height=150&section=header&text=Hi!%20It's%20me%20Horiz.D!&fontSize=30&fontColor=ffffff&fontAlignY=35)
 
-I'm Horiz.d ( A.K.A ABizCho 🌰 ) <br><br>
+I'm Horiz.D ( A.K.A ABizCho 🌰 ) <br><br>
 I'm trying to refine not just tech-skills but exquisite insight in business perspective, zealously, even at this moment. <br>
 Plz follow my journey to dev-world up ,continuously , with your warmest interest.
 
@@ -16,7 +16,7 @@ Thanks & Best regards.
 
 ### ✨ Built-Up Stats ✨
 
-[![ABizCho's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=ABizCho's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+[![Horiz.D's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=ABizCho's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=he1236)](https://solved.ac/he1236)
 
