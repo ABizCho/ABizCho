@@ -41,6 +41,7 @@ Thanks & Best regards.
 
 ### 🛠 My Stacks 🛠
 Dev stacks that I have utilized more than once for projects.
+<br>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
@@ -66,6 +67,7 @@ Dev stacks that I have utilized more than once for projects.
 
 ### 🦄 Wanna get Stacks 🦄
 Dev stacks I'm planning to get.
+<br>
 <p>
   <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp
