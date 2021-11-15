@@ -58,7 +58,7 @@ Dev stacks, at least, that I get used to
   <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
 </p>
 
-<br><br><br>
+<br><br>
 
 ### 🦄 Wanna get Stacks 🦄
 Dev stacks that I'm planning to get
