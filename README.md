@@ -49,7 +49,7 @@ Dev stacks, at least, that I get used to
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/white?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/white?style=flat-square&logo=oracle&logoColor=white"/></a>&nbsp 
 </p>
 <!--<img src="https://img.shields.io/badge/white?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp   -->
 <!--https://simpleicons.org/ -아이콘-->
