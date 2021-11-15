@@ -40,7 +40,7 @@ Thanks & Best regards.
 
 
 ### 🛠 My Stacks 🛠
-Dev stacks, at least,that I get used to
+Dev stacks, at least, that I get used to
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -60,7 +60,7 @@ Dev stacks, at least,that I get used to
 
 <br><br><br>
 
-### 🛠 Wanna get Stacks 🛠
+### 🦄 Wanna get Stacks 🦄
 Dev stacks that I'm planning to get
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
