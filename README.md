@@ -2,7 +2,7 @@
 
 I'm Horiz.D ( A.K.A ABizCho 🌰 ) <br><br>
 I'm trying to refine not just tech-skills but exquisite insight in business perspective, zealously, even at this moment. <br>
-Plz follow my journey to dev-world up ,continuously , with your warmest interest.
+Plz follow my journey to dev-world up, continuously, with your warmest interest.
 
 Thanks & Best regards.
 <br><br>
