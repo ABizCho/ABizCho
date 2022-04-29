@@ -5,10 +5,11 @@ I'm trying to refine not just tech-skills but exquisite insight in business pers
 Plz follow my journey to dev-world up, continuously, with your warmest interest.
 
 Thanks & Best regards.
-<br><br>
+<br><br><br><br>
 
 ### [HorizD' Velog](https://velog.io/@he1256) 
 ### [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
+### [HorizD' Baekjoon](https://www.acmicpc.net/user/he1236)
 ### [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
 ### [HorizD' Naver blog](https://blog.naver.com/he12569)
 
