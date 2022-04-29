@@ -7,11 +7,10 @@ Plz follow my journey to dev-world up, continuously, with your warmest interest.
 Thanks & Best regards.
 <br><br>
 
-[HorizD' Velog](https://velog.io/@he1256)
-[HorizD' Kaggle](https://www.kaggle.com/dsshelter)
-[HorizD' hackerRank](https://www.hackerrank.com/he1236)
-[HorizD' Naver blog](https://blog.naver.com/he12569)
-
+## [HorizD' Velog](https://velog.io/@he1256) 
+## [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
+## [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
+## [HorizD' Naver blog](https://blog.naver.com/he12569)
 <br><br>
 
 ## 
