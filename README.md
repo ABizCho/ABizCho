@@ -82,7 +82,7 @@ Dev stacks that I have utilized more than once for projects.
 Dev stacks I'm planning to get.
 <br>
 <p>
-  <img src="https://img.shields.io/badge/AR-Kit?style=flat-square&logo=ARKit&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/ARKit-?style=flat-square&logo=ARKit&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>&nbsp
