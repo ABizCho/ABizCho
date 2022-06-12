@@ -38,7 +38,7 @@ Thanks & Best regards.
    
 ### 😎 Other References 😎
 <p>
-   <a href="https://github.com/ABizCho/Baekjoon/blob/main/solved.md"><img src="https://ifh.cc/g/eHKFKJ.png"/></a>
+   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://ifh.cc/g/eHKFKJ.png"/></a>
 <br><br><br>
 </p>
 <br><br><br>
