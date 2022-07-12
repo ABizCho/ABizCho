@@ -11,7 +11,6 @@ Thanks & Best regards.
 ### [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
 ### [HorizD' Baekjoon](https://www.acmicpc.net/user/he1236)
 ### [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
-### [HorizD' Naver blog](https://blog.naver.com/he12569)
 
 <br><br>
 
