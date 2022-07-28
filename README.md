@@ -24,7 +24,7 @@ Thanks & Best regards.
 
 ## Other References
 <p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="" style="width:25%; height:25%"/></a>
+   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/Algor.png" style="width:25%; height:25%"/></a>
 </p>
 <br><br><br>
 
