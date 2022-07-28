@@ -17,14 +17,14 @@ Thanks & Best regards.
 
 ## Today I Learned
 <p>
-   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/TIL2022.png" style="width:30%; height:30%"/></a>
+   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/TIL2022.png" style="width:25%; height:25%"/></a>
 </p>
 
 <br><br><br>
 
 ## Other References
 <p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/Algorithm.png"/></a>
+   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/Algorithm.png" style="width:25%; height:25%"/></a>
 </p>
 <br><br><br>
 
