@@ -14,8 +14,18 @@ Thanks & Best regards.
 
 <br><br>
 
-##
-<br>
+
+## Today I Learned
+<p>
+   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/TIL2022.png"/></a>
+</p>
+
+## Other References
+<p>
+   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/Algorithm.png"/></a>
+</p>
+<br><br><br>
+
 
 
 ### ✨ Built-Up Stats ✨
@@ -36,12 +46,6 @@ Thanks & Best regards.
 </p>
 <br><br><br>
    
-### 😎 Other References 😎
-<p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://ifh.cc/g/eHKFKJ.png"/></a>
-<br><br><br>
-</p>
-<br><br><br>
 
 
 ### 🛠 My Stacks 🛠
