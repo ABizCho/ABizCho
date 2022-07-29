@@ -22,7 +22,8 @@ Thanks & Best regards.
 
 
 
-### ✨ Built-Up Stats ✨
+## ✨ Built-Up Stats 
+<br>
 
 [![Horiz.D's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=Horiz.D's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=compact&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=he1236)](https://solved.ac/he1236)
@@ -31,7 +32,7 @@ Thanks & Best regards.
 
 
 
-### 📜 Certificate 📜
+## 📜 Certificate 
 <p>
    <a href="https://ifh.cc/g/MjfMoi.jpg"><img src="https://ifh.cc/g/Zo4oMU.png"/></a>&nbsp
    <a href="https://ifh.cc/g/j8vyOc.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
@@ -39,12 +40,14 @@ Thanks & Best regards.
 </p>
 <br><br><br>
    
+## Stacks
+<br>
 
-
-### 🛠 My Stacks 🛠
+### 🛠 My Stacks 
 Dev stacks that I have utilized more than once for projects.
 <br>
 <p>
+   <div >
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
@@ -52,7 +55,9 @@ Dev stacks that I have utilized more than once for projects.
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+  </div>
   <br>
+  <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
@@ -66,20 +71,23 @@ Dev stacks that I have utilized more than once for projects.
   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>&nbsp 
+   </div>
+   <div>
   <br>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp 
   <br>
+  </div>
 </p>
 <!--<img src="https://img.shields.io/badge/심플아이콘이름-코드?style=flat-square&logo=아이콘이름&logoColor=white"/></a>&nbsp   -->
 
 <!--https://simpleicons.org/ -심플아이콘-->
 
 
-<br>
+<br><br>
 
-### 🦄 Wanna get Stacks 🦄
+### 🦄Wanna get Stacks 
 Dev stacks I'm planning to get.
 <br>
 <p>
@@ -103,7 +111,7 @@ Dev stacks I'm planning to get.
   <img src="https://img.shields.io/badge/Apache-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/></a>&nbsp
 </p>
 
-<br><br><br>
+<br><br><br><br>
 
 ## channels
 <br>
@@ -115,9 +123,12 @@ Dev stacks I'm planning to get.
 
 <br><br>
 
+
+
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/he12569)](https://blog.naver.com/he12569)
 <a href="https://velog.io/@he1256"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@he1256"/></a>
 <a href="mailto:he1236@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=he1236@ajou.ac.kr"/></a>
+
 <br><br><br><br>
 
 ---
