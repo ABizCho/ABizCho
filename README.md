@@ -22,7 +22,7 @@ Thanks & Best regards.
 
 
 
-## ✨ Built-Up Stats 
+## Built-Up Stats 
 <br>
 
 [![Horiz.D's github stats](https://github-readme-stats.vercel.app/api?username=YebinKim&count_private=true&custom_title=Horiz.D's&nbsp;github&nbsp;👀&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
@@ -33,7 +33,7 @@ Thanks & Best regards.
 
 
 
-## 📜 Certificate 
+## Certificate 
 <p>
    <a href="https://ifh.cc/g/MjfMoi.jpg"><img src="https://ifh.cc/g/Zo4oMU.png"/></a>&nbsp
    <a href="https://ifh.cc/g/j8vyOc.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
