@@ -7,14 +7,6 @@ Plz follow my journey to dev-world up, continuously, with your warmest interest.
 Thanks & Best regards.
 <br><br><br><br>
 
-### [HorizD' Velog](https://velog.io/@he1256) 
-### [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
-### [HorizD' Baekjoon](https://www.acmicpc.net/user/he1236)
-### [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
-
-<br><br><br>
-
-
 ## Today I Learned
 <p>
    <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/TIL2022.png" style="width:25%; height:25%"/></a>
@@ -114,11 +106,24 @@ Dev stacks I'm planning to get.
 
 <br><br><br>
 
-### 🚝 channels 🚝
+## channels
+<br>
+
+### [HorizD' Velog](https://velog.io/@he1256) 
+### [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
+### [HorizD' Baekjoon](https://www.acmicpc.net/user/he1236)
+### [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
+
+<br><br>
+
 [![Blog Badge](https://img.shields.io/badge/-Blog-92a8d1?logo=naver&logoColor=white&link=https://blog.naver.com/he12569)](https://blog.naver.com/he12569)
 <a href="https://velog.io/@he1256"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@he1256"/></a>
 <a href="mailto:he1236@ajou.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=he1236@ajou.ac.kr"/></a>
 <br><br><br><br>
+
+---
+<br>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FABizCho&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
