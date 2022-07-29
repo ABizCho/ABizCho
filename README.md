@@ -9,14 +9,14 @@ Thanks & Best regards.
 
 ## Today I Learned
 <p>
-   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/TIL2022.png" style="width:25%; height:25%"/></a>
+   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/TIL2022.png?raw=true" style="width:25%; height:25%"/></a>
 </p>
 
 <br><br><br>
 
 ## Other References
 <p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/Algor.png" style="width:25%; height:25%"/></a>
+   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/Algor.png?raw=true" style="width:25%; height:25%"/></a>
 </p>
 <br><br><br>
 
@@ -32,12 +32,11 @@ Thanks & Best regards.
 <br><br><br>
 
 
-
 ## Certificate 
 <p>
-   <a href="https://ifh.cc/g/MjfMoi.jpg"><img src="https://ifh.cc/g/Zo4oMU.png"/></a>&nbsp
-   <a href="https://ifh.cc/g/j8vyOc.jpg"><img src="https://ifh.cc/g/cz828G.png"/></a>&nbsp
-   <a href="https://ifh.cc/g/UZfZ33.png"><img src="https://ifh.cc/g/mpDAsa.png"/></a>&nbsp
+   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_adsp.PNG"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_adsp.png?raw=true"/></a>&nbsp
+   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_sqld.PNG?raw=true"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_sqld.png?raw=true"/></a>&nbsp
+      <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_%EC%A0%95%EC%B2%98%EA%B8%B0.png"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_%EC%A0%95%EC%B2%98%EA%B8%B0.png?raw=true"/></a>&nbsp
 </p>
 <br><br><br>
    
