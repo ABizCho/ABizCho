@@ -79,7 +79,7 @@ Dev stacks that I have utilized more than once for projects.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ncloud-03C75A?style=flat-square&logo=Ncloud&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=NaverCloud&logoColor=white"/></a>&nbsp
   <br>
   </div>
 </p>
