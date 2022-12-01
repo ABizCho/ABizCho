@@ -15,11 +15,11 @@ Thanks & Best regards.
 <br><br><br>
 
 ## Other References
-<p>
+<!-- <p>
    <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/project_src.png?raw=true" style="width:25%; height:25%"/></a>
 </p>
 
-<br/>
+<br/> -->
 
 <p>
    <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/Algor.png?raw=true" style="width:25%; height:25%"/></a>
