@@ -13,7 +13,7 @@ Thanks & Best regards.
 <br>
 
 ### 🛠 Main Stacks
-주로 사용하는 웹개발 관련 스택택입니다.
+주로 사용하는 웹개발 관련 스택입니다.
 <br>
 <p>
   <div>
@@ -23,25 +23,29 @@ Thanks & Best regards.
      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp    
+     <img src="https://img.shields.io/badge/TailWind CSS-06B6D4?style=flat-square&logo=TailWind CSS&logoColor=white"/></a>&nbsp
   </div>
   <br>
   <div>
      <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
-     <img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
-     <img src="https://img.shields.io/badge/PostgreSQL-47A248?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   </div>
   <br>
   <div>
      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp
-     <img src="https://img.shields.io/badge/Oracle cloud-569A31?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
      <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
   </div>
 </p>
+
+<br>
 
 ### 🛠 Side Stacks
 활용 할 수 있지만, 웹 개발과 직접적으로 관련되지 않은 스택입니다.
