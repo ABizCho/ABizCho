@@ -105,7 +105,7 @@ Thanks & Best regards.
 
 [파이썬 - AI 자동 글 작성 및 파일 입출력 프로세스 자동화](https://github.com/ABizCho/pyPpAndPc) <br>
 [동시 출현 네트워크 분석 및 토픽 모델링을 활용한 국내 개발 취업 준비생과 현업자의 경험과 고충 분석: 온라인 커뮤니티 게시글을 중심으로](https://github.com/ABizCho/SMA_2022summerProject) <br>
-[파이썬의 UDP/TCP 기반 간단한 채팅 실습습](https://github.com/ABizCho/socket-chat-py)
+[파이썬의 UDP/TCP 소켓통신 기반 간단한 채팅 실습](https://github.com/ABizCho/socket-chat-py)
 [R - 데이터분석, 통계 - 2](https://github.com/ABizCho/R_DA_RProgramming) <br>
 [R - 데이터분석 - 1](https://github.com/ABizCho/R_DA_statistics) <br>
 [R - 머신러닝](https://github.com/ABizCho/R_DA_ML/tree/main/Assignments) <br>
