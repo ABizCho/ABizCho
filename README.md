@@ -20,7 +20,7 @@ Thanks & Best regards.
      <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/>
      <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
