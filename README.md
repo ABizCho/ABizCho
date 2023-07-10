@@ -116,31 +116,14 @@ Thanks & Best regards.
 
 ### Study Records
 
+[수평의 기술 블로그](https://velog.io/@he1256)
+[함수형 프로그래밍 스터디](https://github.com/horizontal-library/functional-programming-in-javascript/blob/main/README.md) 
+[TIL 2022](https://github.com/ABizCho/2022-TIL/blob/main/README.md)
+[Algorithm](https://github.com/ABizCho/Baekjoon_List)
 [데이터관리론](https://github.com/ABizCho/DataOps) <br>
 [시스템 분석 및 설계](https://github.com/ABizCho/System_Analysis_Design) <br>
-[함수형 프로그래밍 스터디](https://github.com/horizontal-library/functional-programming-in-javascript/blob/main/README.md) 
 
 <br><br><br>
-
-## Today I Learned
-<p>
-   <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/TIL2022.png?raw=true" style="width:25%; height:25%"/></a>
-</p>
-
-<br><br><br>
-
-## Other References
-<!-- <p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/project_src.png?raw=true" style="width:25%; height:25%"/></a>
-</p>
-
-<br/> -->
-
-<p>
-   <a href="https://github.com/ABizCho/Baekjoon_List"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/Algor.png?raw=true" style="width:25%; height:25%"/></a>
-</p>
-<br><br><br>
-
 
 
 ## Built-Up Stats 
