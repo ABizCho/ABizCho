@@ -16,37 +16,45 @@ Thanks & Best regards.
 [인싸푸드 (협업): React.js, express.js, AI](https://github.com/ABizCho/inssa-food-webApp)
 
 [GANoverflow 프론트 (협업): Next.js](https://github.com/modulersYJ/ganoverflow-front)
+
 [GANoverflow 백 (협업): Nest.js, Docker, OracleCloud, PostgreSql](https://github.com/modulersYJ/ganoverflow-back)
 
 [AI-ght: Next.js, DjangoREST](https://github.com/ABizCho/CMD8-AIght)
+
 [뚜잇! : React.js](https://github.com/ABizCho/DOIT-front-ReactJS)
+
 [머리할래? : React.js, Expo](https://github.com/ABizCho/Capstone-Muri-ReactJS)
 
 [핑거 거너 : teachable machine, html](https://github.com/ABizCho/FingerGunner_game_AI_teachableMachine)
 
 [AAHG 프론트: React.js ](https://github.com/modulersYJ/AAHG-front-react)
+
 [AAHG 백: React.js ](https://github.com/modulersYJ/AAHG-server-django)
 
 [영화리뷰 : React.js](https://github.com/ABizCho/movie-review-React)
 
-
-
-
+<br><br>
 
 ### OTHERS
-[파이썬 - AI 자동 글 작성 및 파일 입출력 프로세스 자동화](https://github.com/ABizCho/pyPpAndPc)
-[동시 출현 네트워크 분석 및 토픽 모델링을 활용한 국내 개발 취업 준비생과 현업자의 경험과 고충 분석: 온라인 커뮤니티 게시글을 중심으로](https://github.com/ABizCho/SMA_2022summerProject)
-[R - 데이터분석, 통계 - 2](https://github.com/ABizCho/R_DA_RProgramming)
-[R - 데이터분석 - 1](https://github.com/ABizCho/R_DA_statistics)
-[R - 머신러닝](https://github.com/ABizCho/R_DA_ML/tree/main/Assignments)
-[파이썬 - 머신러닝](https://github.com/ABizCho/py_machineLearning)
-[파이썬 - PISA 데이터 회귀분석](https://github.com/ABizCho/PyDA_PISA_LinearRegreAndEDA)
-[파이썬 - KickStarter 데이터 로지스틱 회귀분석](https://github.com/ABizCho/PyDA_KickStarter_LogisticRegreAndEDA/blob/main/Kickstarter_LogisticRegreAndEDA.ipynb)
-[](https://github.com/ABizCho/pyAutoProposal)
+
+[파이썬 - AI 자동 글 작성 및 파일 입출력 프로세스 자동화](https://github.com/ABizCho/pyPpAndPc) <br>
+[동시 출현 네트워크 분석 및 토픽 모델링을 활용한 국내 개발 취업 준비생과 현업자의 경험과 고충 분석: 온라인 커뮤니티 게시글을 중심으로](https://github.com/ABizCho/SMA_2022summerProject) <br>
+[R - 데이터분석, 통계 - 2](https://github.com/ABizCho/R_DA_RProgramming) <br>
+[R - 데이터분석 - 1](https://github.com/ABizCho/R_DA_statistics) <br>
+[R - 머신러닝](https://github.com/ABizCho/R_DA_ML/tree/main/Assignments) <br>
+[파이썬 - 머신러닝](https://github.com/ABizCho/py_machineLearning) <br>
+[파이썬 - PISA 데이터 회귀분석](https://github.com/ABizCho/PyDA_PISA_LinearRegreAndEDA) <br>
+[파이썬 - KickStarter 데이터 로지스틱 회귀분석](https://github.com/ABizCho/PyDA_KickStarter_LogisticRegreAndEDA/blob/main/Kickstarter_LogisticRegreAndEDA.ipynb) <br>
+
+<br><br>
 
 ### Study Records
-[데이터관리론](https://github.com/ABizCho/DataOps)
-[시스템 분석 및 설계](https://github.com/ABizCho/System_Analysis_Design)
+
+[데이터관리론](https://github.com/ABizCho/DataOps) <br>
+[시스템 분석 및 설계](https://github.com/ABizCho/System_Analysis_Design) <br>
+[함수형 프로그래밍 스터디](https://github.com/horizontal-library/functional-programming-in-javascript/blob/main/README.md) 
+
+<br><br><br>
 
 ## Today I Learned
 <p>
