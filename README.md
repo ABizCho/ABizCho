@@ -9,6 +9,62 @@ Thanks & Best regards.
 
 <br><br>
 
+## Stacks
+<br>
+
+### 🛠 Main Stacks
+주로 사용하는 웹개발 관련 스택택입니다.
+<br>
+<p>
+  <div>
+     <img src="https://img.shields.io/badge/NextJS-61DAFB?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+  </div>
+  <br>
+  <div>
+     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Django-#092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/PostgreSQL-47A248?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+  </div>
+  <br>
+  <div>
+     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=Amazon EC2&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/Oracle cloud-569A31?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
+     <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
+  </div>
+</p>
+
+### 🛠 Side Stacks
+활용 할 수 있지만, 웹 개발과 직접적으로 관련되지 않은 스택입니다.
+<br>
+<p>
+ <div >
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+ </div>
+ <br>
+ </p>
+<!--<img src="https://img.shields.io/badge/심플아이콘이름-코드?style=flat-square&logo=아이콘이름&logoColor=white"/></a>&nbsp   -->
+
+<!--https://simpleicons.org/ -심플아이콘-->
+
+
+<br><br><br><br>
+
 ## 프로젝트
 
 ### WEB
@@ -94,81 +150,7 @@ Thanks & Best regards.
       <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_%EC%A0%95%EC%B2%98%EA%B8%B0.png"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_%EC%A0%95%EC%B2%98%EA%B8%B0.png?raw=true"/></a>&nbsp
 </p>
 <br><br><br>
-   
-## Stacks
-<br>
 
-### 🛠 My Stacks 
-Dev stacks that I have utilized more than once for projects.
-<br>
-<p>
-   <div >
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  </div>
-  <br>
-  <div>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Recoil-FF4154?style=flat-square&logo=Recoil&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/></a>&nbsp 
-   </div>
-   <div>
-  <br>
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=NaverCloud&logoColor=white"/></a>&nbsp
-  <br>
-  </div>
-</p>
-<!--<img src="https://img.shields.io/badge/심플아이콘이름-코드?style=flat-square&logo=아이콘이름&logoColor=white"/></a>&nbsp   -->
-
-<!--https://simpleicons.org/ -심플아이콘-->
-
-
-<br><br>
-
-### 🦄Wanna get Stacks 
-Dev stacks I'm planning to get.
-<br>
-<p>
-  <img src="https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=ARKit&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/linux Containers-333333?style=flat-square&logo=linux Containers&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white"/></a>&nbsp
-</p>
-
-<br><br><br><br>
 
 ## channels
 <br>
