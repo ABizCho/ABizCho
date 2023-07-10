@@ -34,6 +34,19 @@ Thanks & Best regards.
 
 
 ### OTHERS
+[파이썬 - AI 자동 글 작성 및 파일 입출력 프로세스 자동화](https://github.com/ABizCho/pyPpAndPc)
+[동시 출현 네트워크 분석 및 토픽 모델링을 활용한 국내 개발 취업 준비생과 현업자의 경험과 고충 분석: 온라인 커뮤니티 게시글을 중심으로](https://github.com/ABizCho/SMA_2022summerProject)
+[R - 데이터분석, 통계 - 2](https://github.com/ABizCho/R_DA_RProgramming)
+[R - 데이터분석 - 1](https://github.com/ABizCho/R_DA_statistics)
+[R - 머신러닝](https://github.com/ABizCho/R_DA_ML/tree/main/Assignments)
+[파이썬 - 머신러닝](https://github.com/ABizCho/py_machineLearning)
+[파이썬 - PISA 데이터 회귀분석](https://github.com/ABizCho/PyDA_PISA_LinearRegreAndEDA)
+[파이썬 - KickStarter 데이터 로지스틱 회귀분석](https://github.com/ABizCho/PyDA_KickStarter_LogisticRegreAndEDA/blob/main/Kickstarter_LogisticRegreAndEDA.ipynb)
+[](https://github.com/ABizCho/pyAutoProposal)
+
+### Study Records
+[데이터관리론](https://github.com/ABizCho/DataOps)
+[시스템 분석 및 설계](https://github.com/ABizCho/System_Analysis_Design)
 
 ## Today I Learned
 <p>
