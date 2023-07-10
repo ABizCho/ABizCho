@@ -59,7 +59,7 @@ Thanks & Best regards.
  <div >
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CUDA-FF6F00?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=NVIDIA&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>&nbsp
