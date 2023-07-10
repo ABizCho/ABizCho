@@ -7,6 +7,34 @@ Plz follow my journey to dev-world, continuously, with your warmest interest.
 Thanks & Best regards.
 <br><br><br><br>
 
+<br><br>
+
+## 프로젝트
+
+### WEB
+
+[인싸푸드 (협업): React.js, express.js, AI](https://github.com/ABizCho/inssa-food-webApp)
+
+[GANoverflow 프론트 (협업): Next.js](https://github.com/modulersYJ/ganoverflow-front)
+[GANoverflow 백 (협업): Nest.js, Docker, OracleCloud, PostgreSql](https://github.com/modulersYJ/ganoverflow-back)
+
+[AI-ght: Next.js, DjangoREST](https://github.com/ABizCho/CMD8-AIght)
+[뚜잇! : React.js](https://github.com/ABizCho/DOIT-front-ReactJS)
+[머리할래? : React.js, Expo](https://github.com/ABizCho/Capstone-Muri-ReactJS)
+
+[핑거 거너 : teachable machine, html](https://github.com/ABizCho/FingerGunner_game_AI_teachableMachine)
+
+[AAHG 프론트: React.js ](https://github.com/modulersYJ/AAHG-front-react)
+[AAHG 백: React.js ](https://github.com/modulersYJ/AAHG-server-django)
+
+[영화리뷰 : React.js](https://github.com/ABizCho/movie-review-React)
+
+
+
+
+
+### OTHERS
+
 ## Today I Learned
 <p>
    <a href="https://github.com/ABizCho/2022-TIL/blob/main/README.md"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/TIL2022.png?raw=true" style="width:25%; height:25%"/></a>
