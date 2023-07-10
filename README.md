@@ -17,7 +17,7 @@ Thanks & Best regards.
 <br>
 <p>
   <div>
-     <img src="https://img.shields.io/badge/NextJS-61DAFB?style=flat-square&logo=Next.js&logoColor=white"/></a>
+     <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white"/></a>
