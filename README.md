@@ -79,11 +79,11 @@ Thanks & Best regards.
 
 ### WEB
 
-[인싸푸드 (협업): React.js, express.js, AI](https://github.com/ABizCho/inssa-food-webApp)
+[GANoverflow 프론트 (협업) : Next.js](https://github.com/modulersYJ/ganoverflow-front)
 
-[GANoverflow 프론트 (협업): Next.js](https://github.com/modulersYJ/ganoverflow-front)
+[GANoverflow 백 (협업) : Nest.js, Docker, OracleCloud, PostgreSql](https://github.com/modulersYJ/ganoverflow-back)
 
-[GANoverflow 백 (협업): Nest.js, Docker, OracleCloud, PostgreSql](https://github.com/modulersYJ/ganoverflow-back)
+[인싸푸드 (협업) : React.js, express.js, AI](https://github.com/ABizCho/inssa-food-webApp)
 
 [AI-ght: Next.js, DjangoREST](https://github.com/ABizCho/CMD8-AIght)
 
@@ -93,9 +93,9 @@ Thanks & Best regards.
 
 [핑거 거너 : teachable machine, html](https://github.com/ABizCho/FingerGunner_game_AI_teachableMachine)
 
-[AAHG 프론트: React.js ](https://github.com/modulersYJ/AAHG-front-react)
+[AAHG 프론트 (협업) : React.js ](https://github.com/modulersYJ/AAHG-front-react)
 
-[AAHG 백: React.js ](https://github.com/modulersYJ/AAHG-server-django)
+[AAHG 백 (협업) : React.js ](https://github.com/modulersYJ/AAHG-server-django)
 
 [영화리뷰 : React.js](https://github.com/ABizCho/movie-review-React)
 
