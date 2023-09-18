@@ -150,8 +150,6 @@ Thanks & Best regards.
 
 ### [HorizD' Velog](https://velog.io/@he1256) 
 ### [HorizD' Kaggle](https://www.kaggle.com/dsshelter) 
-### [HorizD' Baekjoon](https://www.acmicpc.net/user/he1236)
-### [HorizD' hackerRank](https://www.hackerrank.com/he1236) 
 
 <br><br>
 
