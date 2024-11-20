@@ -330,7 +330,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/inSSA-food-repository/inssa-food"
+          href="https://github.com/modulersYJ/ganoverflow-front"
           title="GitHub Repository"
           >💻 GitHub</a
         >
