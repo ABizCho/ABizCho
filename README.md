@@ -209,7 +209,7 @@ Thanks & Best regards.
         <b>쏠쏠하이</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        신한은행 쏠뱅크와 함께, 아이의 건강한 금융습관 지도, 교육
+        아이들과 생성형 AI가 함께하는 성장형 금융 습관 지도 서비스 | 🏆 신한 해커톤 우수상
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         5인
