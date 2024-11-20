@@ -257,7 +257,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/Dr-Study-PJT/dr-study"
           title="GitHub Repository"
           >💻 GitHub</a
         >
