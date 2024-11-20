@@ -153,7 +153,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/Shooot-PJT/shooot"
           title="GitHub Repository"
           >💻 GitHub</a
         >
@@ -221,7 +221,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/SolSolHigh/SolSolHigh-FE"
           title="GitHub Repository"
           >💻 GitHub</a
         >
@@ -292,7 +292,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/orgs/ssafy-town/repositories"
           title="GitHub Repository"
           >💻 GitHub</a
         >
@@ -365,7 +365,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/inSSA-food-repository/inssa-food"
+          href="https://github.com/SWF2023-CoFFeee/openprompt-client"
           title="GitHub Repository"
           >💻 GitHub</a
         >
@@ -438,7 +438,7 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/inSSA-food-repository/inssa-food"
+          href="https://github.com/ABizCho/CMD8-AIght"
           title="GitHub Repository"
           >💻 GitHub</a
         >
