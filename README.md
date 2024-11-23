@@ -9,12 +9,24 @@ Plz follow my journey to dev-world, continuously, with your warmest interest.
 Thanks & Best regards.
 <br><br><br><br>
 
+### 교육사항
 
+- **삼성 청년 SW 아카데미 11기**: 전공 백엔드 Java반 `[ 24.01 ~ 24.12 ]`
+- **AI 양재허브**: AI SW 웹 Frontend 개발자 양성 Track `[ 22.07.04 ~ 22.08.19 ]`
+- **아주대학교**: E-Business 학과 졸업 `[ 23.02 ]`
+
+<br/>
+
+### 자격사항 
+<p>
+   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_adsp.PNG"><img width="100px" src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_adsp.png?raw=true"/></a>&nbsp
+   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_sqld.PNG?raw=true"><img width="100px" src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_sqld.png?raw=true"/></a>&nbsp
+    <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_%EC%A0%95%EC%B2%98%EA%B8%B0.png"><img width="100px" src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_%EC%A0%95%EC%B2%98%EA%B8%B0.png?raw=true"/></a>&nbsp
+</p>
 
 <br><br>
 
 ## 기술스택
-<br>
 
 ### 🛠 웹 개발
 주로 사용해본 웹개발 관련 스택입니다.
@@ -521,13 +533,7 @@ Thanks & Best regards.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABizCho&layout=donut&custom_title=My&nbsp;Language&nbsp;⌨️&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
-## Certificate 
-<p>
-   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_adsp.PNG"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_adsp.png?raw=true"/></a>&nbsp
-   <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_sqld.PNG?raw=true"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_sqld.png?raw=true"/></a>&nbsp
-      <a href="https://github.com/ABizCho/ABizCho/blob/main/src/img_%EC%A0%95%EC%B2%98%EA%B8%B0.png"><img src="https://github.com/ABizCho/ABizCho/blob/main/src/logo_%EC%A0%95%EC%B2%98%EA%B8%B0.png?raw=true"/></a>&nbsp
-</p>
-<br><br><br>
+
 
 
 <!-- 
