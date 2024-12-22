@@ -171,12 +171,12 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://project1-demo-link.com" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/Dr-Study-PJT/dr-study" title="Project 1">
+        <a href="https://github.com/Financial-Solidarity/ggul-ggul-ggul" title="Project 1">
           <img
             src="https://velog.velcdn.com/images/he1256/post/ece44d61-b4b7-442e-9831-05a4ac7773f3/image.png"
             width="100px"
@@ -199,13 +199,13 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/Financial-Solidarity/ggul-ggul-ggul"
           title="GitHub Repository"
           >💻 GitHub</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://project1-demo-link.com" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
@@ -239,7 +239,7 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://github.com/SolSolHigh/SolSolHigh-FE" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
@@ -263,7 +263,7 @@ Thanks & Best regards.
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
+        <a href="https://github.com/Dr-Study-PJT/dr-study" title="Live Demo"
           >24.07.02 ~ 24.08.16</a
         >
       </td>
@@ -275,7 +275,7 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://project1-demo-link.com" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
@@ -304,13 +304,13 @@ Thanks & Best regards.
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/orgs/ssafy-town/repositories"
+          href="https://github.com/ABizCho/NewJeaps-FE"
           title="GitHub Repository"
           >💻 GitHub</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://project1-demo-link.com" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
@@ -348,12 +348,12 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://www.ganoverflow.com/" title="Live Demo">🚀<br/>방문</a>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/ABizCho/CMD8-AIght" title="Project 1">
+        <a href="https://github.com/SWF2023-CoFFeee/openprompt-client" title="Project 1">
           <img
             src="https://avatars.githubusercontent.com/u/140989875?s=400&u=870b46d68ae06b0dbcf1738dfdb806ee41cb8f19&v=4"
             width="100px"
@@ -371,7 +371,7 @@ Thanks & Best regards.
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
+        <a href="https://ai-ght.com/" title="Live Demo"
           >23.07.31 ~ 23.08.02</a
         >
       </td>
@@ -383,7 +383,7 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://project1-demo-link.com" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
@@ -421,12 +421,12 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="" title="Live Demo">🚧<br/>중단</a>
       </td>
     </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/ABizCho/CMD8-AIght" title="Project 1">
+        <a href="https://github.com/inSSA-food-repository/inssa-food" title="Project 1">
           <img
             src="https://raw.githubusercontent.com/ABizCho/CMD8-AIght/main/brandsrc/logo/C8AI_alt_2_notxt.png"
             width="100px;"
@@ -444,7 +444,7 @@ Thanks & Best regards.
         개인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
+        <a href="https://ai-ght.com/" title="Live Demo"
           >23.03.23 ~ 23.05.20</a
         >
       </td>
@@ -456,7 +456,7 @@ Thanks & Best regards.
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://ai-ght.com/" title="Live Demo">🚀<br/>방문</a>
       </td>
     </tr>
   </tbody>
