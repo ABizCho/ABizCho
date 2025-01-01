@@ -11,8 +11,8 @@ Thanks & Best regards.
 
 ### 교육사항
 
-- **삼성 청년 SW 아카데미 11기**: 전공 백엔드 Java반 `[ 24.01 ~ 24.12 ]`
-- **AI 양재허브**: AI SW 웹 Frontend 개발자 양성 Track `[ 22.07.04 ~ 22.08.19 ]`
+- **삼성 청년 SW 아카데미 11기**: 전공 백엔드 Java반 `[ 24.01 ~ 24.12 (1600H) ]`
+- **AI 양재허브**: AI SW 웹 Frontend 개발자 양성 Track `[ 22.07.04 ~ 22.08.19 (208H) ]`
 - **아주대학교**: E-Business 학과 졸업 `[ 23.02 ]`
 
 <br/>
@@ -33,8 +33,8 @@ Thanks & Best regards.
 
 > #### 프론트엔드
 <div>
-  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" alt="NextJS"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat-square&logo=React&logoColor=white" alt="ReactJS"/>
+  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=Next.js&logoColor=white" alt="NextJS"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
@@ -52,24 +52,20 @@ Thanks & Best regards.
     <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=Recoil&logoColor=white" alt="Recoil"/>
     <br/>
     💅 :
-    <img src="https://img.shields.io/badge/TailWind%20CSS-06B6D4?style=flat-square&logo=TailWind%20CSS&logoColor=white" alt="TailWind CSS"/>
-    <img src="https://img.shields.io/badge/vanilla-extract-000000?style=flat-square&logo=vanilla-extract&logoColor=white" alt="vanilla-extract"/>
-    <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white" alt="emotion"/> 
+   <img src="https://img.shields.io/badge/TailWind%20CSS-06B6D4?style=flat-square&logo=TailWind%20CSS&logoColor=white" alt="TailWind CSS"/>
+   <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white" alt="emotion"/>
+   <img src="https://img.shields.io/badge/vanilla--extract-000000?style=flat-square&logo=vanilla-extract&logoColor=white" alt="vanilla-extract"/>
     <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled-components"/> 
     <br/>
-    📚 :
-    <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white" alt="MUI"/>
-    <img src="https://img.shields.io/badge/NextUI-00B4F0?style=flat-square&logo=NextUI&logoColor=white" alt="NextUI"/>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white" alt="Bootstrap"/>
-    <img src="https://img.shields.io/badge/PrimeVue-41B883?style=flat-square&logo=PrimeVue&logoColor=white" alt="PrimeVue"/>
-    <br/>
     🔧 :
+     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
+     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" alt="Prettier"/>
+     <img src="https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white" alt="Husky"/>
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook"/>
     <img src="https://img.shields.io/badge/Axios%20Mock%20Adapter-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios Mock Adapter"/>
     <img src="https://img.shields.io/badge/MSW-000000?style=flat-square&logo=msw&logoColor=white" alt="MSW"/>
     <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white" alt="Electron"/>
     <img src="https://img.shields.io/badge/PWA-000000?style=flat-square&logo=PWA&logoColor=white" alt="PWA"/>
-    <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="three.js"/>
     <br/>
   </div>
 
@@ -90,19 +86,17 @@ Thanks & Best regards.
 
 > #### 인프라
 <div>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" alt="Amazon EC2"/>
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white" alt="Amazon S3"/>
-  <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="OracleCloud"/>
-  <img src="https://img.shields.io/badge/NaverCloud-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="NaverCloud"/>
-  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white" alt="Github Actions"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker"/>
+   <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=Github%20Actions&logoColor=white" alt="Github Actions"/>
+   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins"/>
+   <img src="https://img.shields.io/badge/Linux-E95420?style=flat-square&logo=Linux&logoColor=white" alt="Linux"/>
+   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white" alt="AWS"/>
+   <img src="https://img.shields.io/badge/OracleCloud-F80000?style=flat-square&logo=Oracle&logoColor=white" alt="OracleCloud"/>
 </div>
 
-<br>
+<br><br>
 
-### 🧠 데이터 분석 & 머신러닝
+### 데이터 분석
 <div>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" alt="Python"/>&nbsp
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R"/>&nbsp
@@ -118,7 +112,7 @@ Thanks & Best regards.
 
 <br>
 
-### 🛠 기타 도구
+### 기타 도구
 <div>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" alt="Jira"/>
